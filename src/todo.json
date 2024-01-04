@@ -1,0 +1,55 @@
+{
+    "todoGroups": [
+      {
+        "groupName": "Work",
+        "tasks": [
+          {
+            "taskName": "Finish presentation",
+            "status": "Start",
+            "createdDate": "2023-09-13",
+            "completedDate": null
+          },
+          {
+            "taskName": "Send report to manager",
+            "status": "Complete",
+            "createdDate": "2023-09-12",
+            "completedDate": "2023-09-12"
+          }
+        ]
+      },
+      {
+        "groupName": "Personal",
+        "tasks": [
+          {
+            "taskName": "Buy groceries",
+            "status": "Start",
+            "createdDate": "2023-09-11",
+            "completedDate": null
+          },
+          {
+            "taskName": "Exercise",
+            "status": "Complete",
+            "createdDate": "2023-09-10",
+            "completedDate": "2023-09-10"
+          }
+        ]
+      },
+      {
+        "groupName": "Study",
+        "tasks": [
+          {
+            "taskName": "Read chapter 3",
+            "status": "Create",
+            "createdDate": "2023-09-09",
+            "completedDate": null
+          },
+          {
+            "taskName": "Write essay",
+            "status": "Start",
+            "createdDate": "2023-09-08",
+            "completedDate": null
+          }
+        ]
+      }
+    ]
+  }

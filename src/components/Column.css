@@ -1,0 +1,20 @@
+.column {
+    /* background: var(--COLOR-GRAY-DARK); */
+    background: rgb(117,117,144);
+    background: linear-gradient(360deg, rgba(117,117,144,1) 0%, rgba(117,117,133,1) 50%, rgba(117,117,117,1) 100%);
+    min-height: 60vh;
+    min-width: 14rem;
+    max-height: 90vh;
+    color: #fff;
+    width: 33%;
+    max-width: 30rem;
+    margin: 1rem 0.2rem;
+    border-radius: 4px;
+    padding: 0.6rem;
+    border: groove transparent 3px;
+
+  }
+  
+  .column.drop {
+    border-color: #7c4dff;
+  }
