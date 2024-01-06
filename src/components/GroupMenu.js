@@ -20,7 +20,6 @@ const GroupMenu = () => {
     }
     useEffect(() => {
      handleNewUser()
-    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [groups, isDialogFromOpen])
 
   const handleAddGroup = () => { 
