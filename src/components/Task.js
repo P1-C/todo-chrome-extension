@@ -61,7 +61,6 @@ export default function Task({ title }) {
         task.description &&
           <Stack direction={'row'} justifyContent={'space-between'}>
             <Typography variant='caption' color='GrayText' marginRight={2}  >{task.description}</Typography>
-            {/* <Chip size='small' variant='outlined' label={task.priority} color={`${task.priority === 'HIGH' ? 'error' : task.priority === 'MEDIUM' ? 'warning' : 'success' }`} /> */}
           </Stack> 
       }
 
