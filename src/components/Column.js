@@ -3,8 +3,8 @@ import { shallow } from 'zustand/shallow';
 import { Box, Divider, Typography } from '@mui/material';
 import useTodoStore from '../store/todoStore';
 import Task from './Task';
-import classNames from 'classnames';
 import './Column.css';
+import classNames from 'classnames';
 import useConfigStore from '../store/configStore';
 
 
